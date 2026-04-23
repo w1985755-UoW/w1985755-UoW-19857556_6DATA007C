@@ -1,0 +1,7 @@
+Season,Variable,r,p-value,Strength,Direction,Significant
+Maha,Rainfall,0.0362,0.7837,Negligible,Positive,No
+Maha,Max Temperature,0.1159,0.3779,Negligible,Positive,No
+Maha,Min Temperature,-0.1478,0.2596,Negligible,Negative,No
+Yala,Rainfall,0.1651,0.2075,Negligible,Positive,No
+Yala,Max Temperature,0.007,0.9575,Negligible,Positive,No
+Yala,Min Temperature,0.3034,0.0184,Weak,Positive,Yes
